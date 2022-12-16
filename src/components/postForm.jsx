@@ -25,7 +25,7 @@ const PostForm = () => {
             alert("Some error occured while posting! Please Try Again");
         });
         navigate("/home");
-        alert("registration successful");
+        alert("Post successfully uploaded");
     }
     return (
         <>
